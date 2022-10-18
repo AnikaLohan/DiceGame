@@ -1,2 +1,2 @@
 # DiceGame
-A two player Dice game.
+A simple Dice 2 player game.
